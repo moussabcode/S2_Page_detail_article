@@ -1,0 +1,12 @@
+.header {
+    background-color:blue;
+    text-align:center;
+    padding:50px;
+    color:red;
+}
+.badge {
+    display:inline-block;
+    background:white;
+    color:green;
+    padding: 8px 15px;
+}
