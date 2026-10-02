@@ -1,0 +1,14 @@
+.listes-liens li {
+    font-style:italic;
+    font-size: 20px;
+    font-family: arial;
+}
+.listes-liens a {
+    color: #ff4444;
+}
+.listes-liens li {
+    margin-bottom:15px;
+}
+.listes-liens li {
+    padding-left:15px;
+}
