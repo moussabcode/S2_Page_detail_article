@@ -1,0 +1,172 @@
+.body {
+    max-width:100%;
+    background:rgb(251, 249, 249);
+    border-radius:20px;
+    margin:5px 10px;
+}
+.img-profil {
+    display:inline-block;
+    text-align:right;
+    border-radius:50%;
+    height:70px;
+    width:70px;
+    margin-left:1060px;
+    margin-top:20px;
+}
+.head-page {
+    display:block;
+    width:100%;
+    padding:30px 0;
+    text-align:center;
+    border:2px solide blue;
+    border-radius:20px;
+}
+.badge1 {
+    display:inline-block;
+    padding: 0 70px;
+    background:rgb(70, 70, 109);
+    border:5px solid blue;
+    border-radius:20px;
+    font-size:20px;
+    font-style:italic;
+    margin-left:00px;
+}
+.badge2 {
+    display:inline-block;
+    padding: 0 70px;
+    background:rgb(70, 70, 109);
+    border:5px solid blue;
+    border-radius:20px;
+    font-size:20px;
+    font-style:italic;
+    margin-left:500px;
+}
+.head-page a {
+    color: rgb(244, 241, 241);
+}
+.img-center {
+    width:100%;
+    height:300px;
+    object-fit:cover;
+}
+.titre {
+    font-size:50px;
+    margin:20px 0 10px 30px;
+    color:rgb(69, 69, 75);
+    font-style:oblique;
+    text-align:center;
+    padding:20px;
+}
+.titre-projet {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:50px;
+    text-align:center;
+    margin-top:-2px;
+    border-radius:20px;
+}
+.titre-presenter {
+    display:inline-block;
+    font-style:italic;
+    color:rgb(125, 125, 154);
+    border-left: 7px solid blue;
+    padding-left:3px;
+}
+.contexte-projet {
+    display:inline-block;
+    line-height:2.5;
+    font-size:18px;
+    width:40%;
+    background:rgba(221, 209, 196, 0.963);
+    padding:20px;
+    border-radius:20px;
+}
+.site-market {
+    display:block;
+    width:59%;
+    height:420px;
+    padding-left:44%;
+    margin-top:-440px;
+    border-radius:20px;
+}
+.image-site figcaption {
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:30px;
+    margin-top:10px;
+    font-size:14px;
+}
+.article-projet {
+    text-align:left;
+    width:50%;
+}
+.détails-projet {
+    font-style:italic;
+    border-left: 7px solid blue;
+    color:rgb(125, 125, 154);
+    padding-left:3px;
+}
+.liste-détail {
+    background:rgb(239, 237, 237);
+    padding:2px 8px;
+    font-size:17px;
+    line-height:30px;
+    border-radius:20px;
+    font-style:italic;
+    color:rgb(37, 37, 51);
+    width:70%;
+}
+.liste1 {
+    font-style:normal;
+    display:inline-block;
+    font-size:13px;
+    padding-left:10px;
+    color:rgb(159, 66, 66);
+}
+.titre-compétences {
+    padding-left:3px;
+    display:block;
+    border-left:7px solid blue;
+    color:rgb(125, 125, 154);
+    font-style:italic;
+}
+.language {
+    font-style:italic;
+}
+.language h4 {
+    font-style:normal;
+    border-left:6px solid rgb(54, 54, 81);
+    background:rgb(209, 181, 181);
+    border-radius:20px;
+}
+.langue1 {
+    border:2px solid brown;
+    display:inline-block;
+    margin:5px 70px;
+    text-align:center;
+    background:rgb(196, 164, 164);
+    padding:10px;
+    border-radius:20px;
+}
+.langue2 {
+    border:2px solid brown;
+    display:inline-block;
+    margin:5px 90px;
+    text-align:center;
+    background:rgb(196, 164, 164);
+    padding:10px;
+    border-radius:20px;
+}
+.langue3 {
+    border:2px solid brown;
+    display:inline-block;
+    margin:5px 90px;
+    text-align:center;
+    background:rgb(196, 164, 164);
+    padding:10px;
+    border-radius:20px;
+}
+.info-projet {
+    display:block;
+    text-align:right;
+    margin:10px 20px;
+}
